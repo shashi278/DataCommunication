@@ -1,2 +1,2 @@
 # sigNsys
-Few codes for signal and system
+Codes for modulation amd demodulation using few techniques.
